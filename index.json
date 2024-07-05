@@ -19662,10 +19662,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.12.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.11.apk",
     "lang": "es",
     "code": 11,
-    "version": "1.4.12",
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
